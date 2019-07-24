@@ -1,0 +1,14 @@
+.container{
+    height:100%;
+    background-color: #D6D6D6;
+    width: 40%;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+label
+{
+	display: block;
+	width: 150px;
+	float: left;
+}
